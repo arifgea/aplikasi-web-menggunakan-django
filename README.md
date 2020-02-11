@@ -1,1 +1,1 @@
-# aplikasi-web-menggunakan-django
+# belajar-otomatisasi-dengan-python
